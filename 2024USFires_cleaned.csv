@@ -1,0 +1,372 @@
+,State,State_County,Start,End,Months,Num_Months
+0,Alaska,Alaska_Bethel,June,August,"June, July, August, June, July, August, June, July, August, June, July, August, June, July, August, June, July, August, June, July, August",138
+1,Alaska,Alaska_Denali,June,October,"June, July, August, September, October, June, July, August, September, October, June, July, August, September, October, June, July, August, September, October, June, July, August, September, October",198
+2,Alaska,Alaska_FairbanksNorthStar,June,October,"June, July, August, September, October, June, July, August, September, October, June, July, August, September, October",118
+3,Alaska,Alaska_FairbanksNorthStar,June,September,"June, July, August, September, June, July, August, September",60
+4,Alaska,Alaska_LakeandPeninsula,June,July,"June, July",10
+5,Alaska,Alaska_NorthwestArctic,June,September,"June, July, August, September",29
+6,Alaska,Alaska_Yokun-Koyukuk,June,October,"June, July, August, September, October",38
+7,Alaska,Alaska_Yukon-Koyukuk,June,August,"June, July, August, June, July, August, June, July, August",58
+8,Alaska,Alaska_Yukon-Koyukuk,June,October,"June, July, August, September, October, June, July, August, September, October, June, July, August, September, October",118
+9,Alaska,Alaska_Yukon-Koyukuk,June,September,"June, July, August, September, June, July, August, September, June, July, August, September",91
+10,Arizona,Arizona_Coconino,April,July,"April, May, June, July",22
+11,Arizona,Arizona_Coconino,July,August,"July, August, July, August",26
+12,Arizona,Arizona_Coconino,July,July,['July'],1
+13,Arizona,Arizona_Coconino,June,August,"June, July, August",18
+14,Arizona,Arizona_Coconino,June,July,"June, July",10
+15,Arizona,Arizona_Coconino,September,October,"September, October",18
+16,Arizona,"Arizona_Coconino,Yavapai",March,March,['March'],1
+17,Arizona,Arizona_Gila,August,September,"August, September, August, September",36
+18,Arizona,Arizona_Gila,July,August,"July, August",12
+19,Arizona,Arizona_Gila,June,June,['June'],1
+20,Arizona,"Arizona_Gila,Coconino",December,February,unknown,7
+21,Arizona,Arizona_Graham,July,August,"July, August, July, August",26
+22,Arizona,Arizona_Graham,May,May,['May'],1
+23,Arizona,"Arizona_Graham,Apache",July,August,"July, August",12
+24,Arizona,"Arizona_Graham,Gila",July,August,"July, August",12
+25,Arizona,"Arizona_Graham,Gila",May,May,['May'],1
+26,Arizona,Arizona_Greenlee,June,September,"June, July, August, September",29
+27,Arizona,Arizona_Maricopa,August,August,['August'],1
+28,Arizona,Arizona_Maricopa,July,August,"July, August",12
+29,Arizona,Arizona_Maricopa,June,July,"June, July, June, July",22
+30,Arizona,Arizona_Maricopa,June,June,['June'],1
+31,Arizona,Arizona_Maricopa,May,July,"May, June, July",15
+32,Arizona,Arizona_Maricopa,September,September,['September'],1
+33,Arizona,"Arizona_Maricopa,Gila",July,September,"July, August, September",23
+34,Arizona,Arizona_Mohave,August,August,['August'],1
+35,Arizona,Arizona_Mohave,July,August,"July, August",12
+36,Arizona,Arizona_Pima,July,August,"July, August",12
+37,Arizona,"Arizona_Pima,SantaCruz",October,October,['October'],1
+38,Arizona,Arizona_Pinal,July,August,"July, August",12
+39,Arizona,Arizona_Pinal,July,July,['July'],1
+40,Arizona,Arizona_Pinal,October,October,['October'],1
+41,Arizona,Arizona_Pinal,September,September,['September'],1
+42,Arizona,Arizona_Yavapai,August,August,['August'],1
+43,Arizona,Arizona_Yavapai,August,September,"August, September, August, September",36
+44,Arizona,Arizona_Yavapai,July,July,['July'],1
+45,Arizona,"Arizona_Yuma,LaPaz",May,July,"May, June, July",15
+46,California,California_Butte,July,July,['July'],1
+47,California,California_Butte,June,June,['June'],1
+48,California,California_ButteTehama,July,September,"July, August, September",23
+49,California,California_Calaveras,June,June,['June'],1
+50,California,California_Colusa,June,June,['June'],1
+51,California,California_ElDorado,August,August,['August'],1
+52,California,California_Fresno,July,November,"July, August, September, October, November",42
+53,California,California_Fresno,June,July,"June, July, June, July",22
+54,California,"California_Fresno,Monterey",September,September,['September'],1
+55,California,California_Humboldt,July,August,"July, August",12
+56,California,"California_Humboldt,Siskiyou",August,September,"August, September",17
+57,California,California_Inyo,October,December,"October, November, December",27
+58,California,California_Kern,July,July,['July'],1
+59,California,California_Kern,July,September,"July, August, September",23
+60,California,California_Kern,June,June,['June'],1
+61,California,California_Kern,May,May,['May'],1
+62,California,"California_Lake,Colusa",July,July,['July'],1
+63,California,California_Lassen,July,July,['July'],1
+64,California,California_LosAngeles,December,December,['December'],1
+65,California,California_LosAngeles,July,July,['July'],1
+66,California,"California_LosAngeles,SanBernardino",September,November,"September, October, November",28
+67,California,"California_LosAngeles,Ventura",June,June,['June'],1
+68,California,California_Madera,May,May,['May'],1
+69,California,"California_Mariposa,Tuolumne",July,August,"July, August",12
+70,California,California_Modoc,July,July,['July'],1
+71,California,California_Monterey,July,July,['July'],1
+72,California,California_Monterey,May,May,['May'],1
+73,California,California_Monterey,October,October,['October'],1
+74,California,"California_Orange,Riverside",September,October,"September, October",18
+75,California,California_Plumas,July,August,"July, August",12
+76,California,California_Riverside,July,July,['July'],1
+77,California,"California_Riverside,SanDiego",July,August,"July, August",12
+78,California,California_SanBenito,July,July,['July'],1
+79,California,California_SanBernardino,July,August,"July, August",12
+80,California,California_SanBernardino,June,June,['June'],1
+81,California,California_SanBernardino,September,December,"September, October, November, December",38
+82,California,California_SanDiego,July,July,['July'],1
+83,California,California_SanDiego,September,September,['September'],1
+84,California,California_SanJoaquin,June,June,['June'],1
+85,California,California_SanLuisObispo,June,June,['June'],1
+86,California,California_SanLuisObispo,September,September,['September'],1
+87,California,"California_SanLuisObispo,Kern",July,July,['July'],1
+88,California,California_SantaBarbara,July,August,"July, August",12
+89,California,California_SantaBarbara,May,June,"May, June",9
+90,California,California_Shasta,October,November,"October, November",17
+91,California,California_Sierra,September,September,['September'],1
+92,California,California_Siskiyou,July,August,"July, August",12
+93,California,California_Sonoma,June,June,['June'],1
+94,California,California_Tulare,August,December,"August, September, October, November, December",46
+95,California,California_Tulare,July,September,"July, August, September",23
+96,California,California_Ventura,July,August,"July, August",12
+97,California,California_Ventura,November,November,['November'],1
+98,Colorado,Colorado_Arapahoe,July,July,['July'],1
+99,Colorado,Colorado_Bent,March,March,['March'],1
+100,Colorado,"Colorado_Boulder,Larimer",July,August,"July, August",12
+101,Colorado,Colorado_ElPaso,April,May,"April, May",10
+102,Colorado,Colorado_ElPaso,February,March,"February, March, February, March",32
+103,Colorado,Colorado_Larimer,July,August,"July, August",12
+104,Colorado,Colorado_Mesa,May,June,"May, June",9
+105,Colorado,Colorado_Moffat,August,August,['August'],1
+106,Colorado,Colorado_Montezuma,May,May,['May'],1
+107,Colorado,Colorado_Montrose,August,August,['August'],1
+108,Colorado,Colorado_Weld,July,July,['July'],1
+109,Colorado,Colorado_Weld,September,October,"September, October",18
+110,"Colorado, Utah","Colorado, Utah_Mesa(CO),Grand(UT)",June,July,"June, July",10
+111,Florida,Florida_Brevard,May,June,"May, June",9
+112,Florida,Florida_Lake,April,August,"April, May, June, July, August",30
+113,Florida,Florida_Liberty,March,April,"March, April",12
+114,Florida,Florida_Polk,February,March,"February, March",15
+115,Idaho,Idaho_Ada,July,July,['July'],1
+116,Idaho,Idaho_Ada,June,June,['June'],1
+117,Idaho,Idaho_Ada,October,October,['October'],1
+118,Idaho,Idaho_Adams&Idaho,July,August,"July, August",12
+119,Idaho,Idaho_Adams&Latah,July,September,"July, August, September",23
+120,Idaho,Idaho_Adams&Valley,July,September,"July, August, September",23
+121,Idaho,Idaho_Blaine,August,August,['August'],1
+122,Idaho,Idaho_Blaine,October,October,['October'],1
+123,Idaho,Idaho_Blaine,September,September,['September'],1
+124,Idaho,Idaho_Boise,August,September,"August, September",17
+125,Idaho,Idaho_Boise&Custer,July,October,"July, August, September, October",32
+126,Idaho,Idaho_Boise&Valley,August,October,"August, September, October, August, September, October",54
+127,Idaho,Idaho_Bonneville,September,November,"September, October, November",28
+128,Idaho,Idaho_Cassia,July,July,['July'],1
+129,Idaho,Idaho_Custer,July,August,"July, August",12
+130,Idaho,Idaho_Custer,September,October,"September, October",18
+131,Idaho,Idaho_Elmore,August,August,['August'],1
+132,Idaho,Idaho_Elmore,July,July,['July'],1
+133,Idaho,Idaho_Elmore,September,September,['September'],1
+134,Idaho,"Idaho_Elmore,Camas",September,October,"September, October",18
+135,Idaho,"Idaho_Elmore,Gooding",September,September,['September'],1
+136,Idaho,"Idaho_Elmore,Owyhee",July,July,['July'],1
+137,Idaho,Idaho_Gem,September,October,"September, October",18
+138,Idaho,"Idaho_Gem,Payette,&Washington",August,August,['August'],1
+139,Idaho,Idaho_Idaho,August,November,"August, September, October, November",36
+140,Idaho,Idaho_Idaho,August,October,"August, September, October, August, September, October, August, September, October, August, September, October, August, September, October, August, September, October",166
+141,Idaho,Idaho_Idaho,July,November,"July, August, September, October, November",42
+142,Idaho,Idaho_Idaho,July,October,"July, August, September, October, July, August, September, October",66
+143,Idaho,Idaho_Idaho,September,October,"September, October, September, October",38
+144,Idaho,Idaho_Latah,July,August,"July, August, July, August",26
+145,Idaho,Idaho_Lemhi,August,October,"August, September, October",26
+146,Idaho,Idaho_Lemhi,July,August,"July, August",12
+147,Idaho,Idaho_Lemhi,September,October,"September, October, September, October",38
+148,Idaho,Idaho_NezPerce,July,August,"July, August",12
+149,Idaho,Idaho_Owyhee,August,August,['August'],1
+150,Idaho,Idaho_Owyhee,July,July,['July'],1
+151,Idaho,Idaho_Owyhee,June,June,['June'],1
+152,Idaho,Idaho_Owyhee,September,October,"September, October",18
+153,Idaho,Idaho_Owyhee,September,September,['September'],1
+154,Idaho,Idaho_TwinFalls,August,August,['August'],1
+155,Idaho,"Idaho_TwinFalls,Owyhee",June,July,"June, July",10
+156,Idaho,Idaho_Valley,August,October,"August, September, October, August, September, October, August, September, October, August, September, October, August, September, October",138
+157,Idaho,Idaho_Valley,September,November,"September, October, November",28
+158,Idaho,Idaho_Valley,September,October,"September, October",18
+159,Idaho,Idaho_Washington,September,September,['September'],1
+160,Kansas,Kansas_Ellis,April,April,['April'],1
+161,Louisiana,Louisiana_Cameron,August,August,['August'],1
+162,Massachusetts,Massachusetts_Berkshire,November,December,"November, December",18
+163,Minnesota,Minnesota_OtterTail,March,March,['March'],1
+164,Minnesota,Minnesota_Waseca,March,March,['March'],1
+165,Mississippi,Mississippi_Forrest,April,June,"April, May, June",16
+166,Mississippi,Mississippi_Greene,February,April,"February, March, April",22
+167,Mississippi,Mississippi_JeffersonDavis,February,February,['February'],1
+168,Montana,Montana_Beaverhead,August,September,"August, September",17
+169,Montana,Montana_Beaverhead,July,October,"July, August, September, October",32
+170,Montana,Montana_BigHorn,August,August,['August'],1
+171,Montana,Montana_BigHorn,July,July,['July'],1
+172,Montana,Montana_BigHorn,July,September,"July, August, September",23
+173,Montana,Montana_Carter,August,August,['August'],1
+174,Montana,Montana_Jefferson,August,October,"August, September, October",26
+175,Montana,"Montana_LewisandClark,Broadwater",July,August,"July, August",12
+176,Montana,Montana_Missoula,July,August,"July, August",12
+177,Montana,Montana_PowderRiver,August,August,['August'],1
+178,Montana,Montana_Ravalli,July,November,"July, August, September, October, November, July, August, September, October, November",86
+179,Montana,"Montana_Ravalli,Granite",August,November,"August, September, October, November",36
+180,Montana,Montana_Rosebud,July,July,['July'],1
+181,Montana,"Montana_Rosebud,BigHorn",August,August,['August'],1
+182,Montana,"Montana_Rosebud,BigHorn",July,July,['July'],1
+183,Montana,"Montana_Rosebud,BigHorn",March,June,"March, April, May, June",23
+184,Montana,Montana_Sheridan,September,September,['September'],1
+185,"Montana, Wyoming","Montana, Wyoming_BigHorn(MT),Sheridan(WY)",July,August,"July, August",12
+186,"Montana, Wyoming","Montana, Wyoming_PowderRiver(MT),Campbell(WY)",July,August,"July, August",12
+187,"Montana, Wyoming","Montana, Wyoming_Rosebud(MT),BigHorn(MT),Sheridan(WY),Campbell(WY)",August,September,"August, September",17
+188,Nebraska,"Nebraska_Lincoln,Custer",February,March,"February, March",15
+189,Nebraska,Nebraska_Sioux,September,November,"September, October, November",28
+190,Nevada,Nevada_Elko,October,October,['October'],1
+191,Nevada,Nevada_Humboldt,August,September,"August, September",17
+192,Nevada,Nevada_Humboldt,July,July,['July'],1
+193,Nevada,Nevada_Lander,July,July,['July'],1
+194,Nevada,Nevada_Mineral,June,July,"June, July",10
+195,Nevada,Nevada_Nye,August,August,['August'],1
+196,Nevada,Nevada_Washoe,July,August,"July, August",12
+197,Nevada,Nevada_Washoe,June,July,"June, July",10
+198,Nevada,Nevada_Washoe,September,September,['September'],1
+199,Nevada,Nevada_WhitePine,August,August,['August'],1
+200,Nevada,Nevada_WhitePine,July,July,['July'],1
+201,New Mexico,New Mexico_Catron,July,September,"July, August, September",23
+202,New Mexico,New Mexico_Catron,June,July,"June, July",10
+203,New Mexico,New Mexico_Cibola,June,August,"June, July, August",18
+204,New Mexico,New Mexico_Lincoln,May,July,"May, June, July",15
+205,New Mexico,New Mexico_RioArriba,July,August,"July, August",12
+206,New Mexico,New Mexico_Sierra,July,August,"July, August",12
+207,New Mexico,New Mexico_Socorro,July,July,['July'],1
+208,New Mexico,New Mexico_Union,August,August,['August'],1
+209,"New York, New Jersey","New York, New Jersey_Orange(NY),Passaic(NJ)",November,November,['November'],1
+210,North Dakota,North Dakota_McKenzie,October,November,"October, November",17
+211,North Dakota,North Dakota_McKenzie,October,October,['October'],1
+212,North Dakota,North Dakota_Williams,October,October,['October'],1
+213,Oklahoma,Oklahoma_Beaver,February,March,"February, March",15
+214,Oklahoma,Oklahoma_Comanche,October,November,"October, November",17
+215,Oklahoma,Oklahoma_Dewey,October,November,"October, November",17
+216,Oklahoma,Oklahoma_Ellis,February,March,"February, March",15
+217,Oklahoma,Oklahoma_Harper,February,February,['February'],1
+218,Oklahoma,Oklahoma_LeFlore,February,March,"February, March",15
+219,Oklahoma,Oklahoma_Lincoln,October,October,['October'],1
+220,Oklahoma,Oklahoma_Logan,October,November,"October, November",17
+221,Oklahoma,Oklahoma_McIntosh,October,October,['October'],1
+222,Oklahoma,Oklahoma_Osage,April,April,['April'],1
+223,Oklahoma,Oklahoma_Osage,March,April,"March, April, March, April, March, April",40
+224,Oklahoma,Oklahoma_Osage,October,November,"October, November",17
+225,Oklahoma,Oklahoma_Payne,October,November,"October, November",17
+226,Oklahoma,Oklahoma_Tulsa,March,April,"March, April",12
+227,Oregon,Oregon_Baker,August,August,['August'],1
+228,Oregon,Oregon_Baker,July,August,"July, August, July, August",26
+229,Oregon,Oregon_Baker,July,July,['July'],1
+230,Oregon,Oregon_Crook,July,July,['July'],1
+231,Oregon,Oregon_Crook,September,October,"September, October",18
+232,Oregon,"Oregon_Crook,Grant",September,November,"September, October, November",28
+233,Oregon,"Oregon_Crook,Wheeler",July,September,"July, August, September",23
+234,Oregon,Oregon_Deschutes,June,July,"June, July",10
+235,Oregon,Oregon_Deschutes,October,October,['October'],1
+236,Oregon,Oregon_Deschutes,September,November,"September, October, November",28
+237,Oregon,Oregon_Douglas,August,August,['August'],1
+238,Oregon,Oregon_Douglas,July,November,"July, August, September, October, November",42
+239,Oregon,Oregon_Douglas,September,October,"September, October",18
+240,Oregon,"Oregon_Douglas,Klamath",July,October,"July, August, September, October",32
+241,Oregon,"Oregon_Douglas,Lane",July,November,"July, August, September, October, November",42
+242,Oregon,Oregon_Gilliam,August,August,['August'],1
+243,Oregon,"Oregon_Gilliam,Morrow,Wheeler",July,September,"July, August, September",23
+244,Oregon,Oregon_Grant,July,August,"July, August, July, August, July, August",40
+245,Oregon,Oregon_Harney,August,August,['August'],1
+246,Oregon,Oregon_Harney,July,August,"July, August, July, August, July, August",40
+247,Oregon,Oregon_Harney,July,July,['July'],1
+248,Oregon,Oregon_Harney,September,October,"September, October",18
+249,Oregon,Oregon_Harney,September,September,['September'],1
+250,Oregon,Oregon_HoodRiver,July,October,"July, August, September, October",32
+251,Oregon,"Oregon_HoodRiver,Wasco",July,August,"July, August",12
+252,Oregon,Oregon_Jackson,July,July,['July'],1
+253,Oregon,Oregon_Jackson,June,June,['June'],1
+254,Oregon,Oregon_Jefferson,August,August,['August'],1
+255,Oregon,Oregon_Klamath,April,May,"April, May",10
+256,Oregon,Oregon_Klamath,July,November,"July, August, September, October, November",42
+257,Oregon,Oregon_Klamath,September,September,['September'],1
+258,Oregon,Oregon_Lake,August,August,['August'],1
+259,Oregon,Oregon_Lake,September,October,"September, October, September, October, September, October",58
+260,Oregon,"Oregon_Lake,Deschutes",September,October,"September, October",18
+261,Oregon,Oregon_Lane,July,August,"July, August",12
+262,Oregon,Oregon_Lane,July,November,"July, August, September, October, November, July, August, September, October, November",86
+263,Oregon,Oregon_Lane,July,October,"July, August, September, October, July, August, September, October",66
+264,Oregon,Oregon_Lane,July,September,"July, August, September",23
+265,Oregon,Oregon_Lane,September,November,"September, October, November, September, October, November",58
+266,Oregon,"Oregon_Lane,Linn",July,September,"July, August, September",23
+267,Oregon,Oregon_Linn,July,September,"July, August, September",23
+268,Oregon,Oregon_Malheur,August,August,['August'],1
+269,Oregon,Oregon_Malheur,July,August,"July, August, July, August",26
+270,Oregon,Oregon_Malheur,July,July,['July'],1
+271,Oregon,Oregon_Malheur,July,October,"July, August, September, October",32
+272,Oregon,Oregon_Malheur,June,August,"June, July, August",18
+273,Oregon,Oregon_Malheur,June,July,"June, July",10
+274,Oregon,Oregon_Malheur,June,October,"June, July, August, September, October",38
+275,Oregon,Oregon_Malheur,September,September,['September'],1
+276,Oregon,Oregon_Umatilla,July,August,"July, August",12
+277,Oregon,Oregon_Umatilla,July,July,['July'],1
+278,Oregon,"Oregon_Umatilla,Grant,Morrow",July,August,"July, August",12
+279,Oregon,Oregon_Wasco,July,July,['July'],1
+280,Oregon,Oregon_Wasco,June,July,"June, July",10
+281,Oregon,Oregon_Wasco,September,September,['September'],1
+282,Oregon,"Oregon_Wasco,Sherman",September,September,['September'],1
+283,Oregon,Oregon_Wheeler,September,September,['September'],1
+284,South Dakota,South Dakota_Harding,July,July,['July'],1
+285,South Dakota,South Dakota_Harding,July,September,"July, August, September",23
+286,South Dakota,South Dakota_Mellette,September,October,"September, October",18
+287,South Dakota,South Dakota_OglalaLakota,September,October,"September, October",18
+288,South Dakota,South Dakota_Pennington,August,September,"August, September",17
+289,Texas,Texas_Armstrong,February,February,['February'],1
+290,Texas,Texas_Brazoria,June,July,"June, July",10
+291,Texas,Texas_Cottle,July,August,"July, August",12
+292,Texas,"Texas_Dickens,King",August,August,['August'],1
+293,Texas,Texas_Gray,February,March,"February, March",15
+294,Texas,Texas_Haskell,August,August,['August'],1
+295,Texas,Texas_Hutchinson,March,March,['March'],1
+296,Texas,Texas_Kenedy,April,April,['April'],1
+297,Texas,Texas_Kleberg,May,May,['May'],1
+298,Texas,Texas_Mason,August,August,['August'],1
+299,Texas,Texas_Moore,February,February,['February'],1
+300,Texas,Texas_Oldham,February,March,"February, March",15
+301,Texas,Texas_Potter,May,May,['May'],1
+302,Texas,"Texas_Potter,Moore,Hutchinson,Carson",February,March,"February, March",15
+303,Texas,Texas_Stephens,August,August,['August'],1
+304,Texas,Texas_Throckmorton,August,August,['August'],1
+305,Texas,Texas_Wichita,August,August,['August'],1
+306,Texas,Texas_Wilbarger,August,August,['August'],1
+307,"Texas, Oklahoma","Texas, Oklahoma_Hutchinson(TX),Carson(TX),Gray(TX),Roberts(TX),Wheeler(TX),Hemphill(TX),Lipscomb(TX),Ellis(OK),RogerMills(OK)",February,March,"February, March",15
+308,Utah,Utah_Beaver,May,August,"May, June, July, August",23
+309,Utah,Utah_BoxElder,July,August,"July, August",12
+310,Utah,Utah_Grand,September,September,['September'],1
+311,Utah,Utah_Kane,July,July,['July'],1
+312,Utah,Utah_Piute,July,August,"July, August",12
+313,Utah,Utah_Rich,August,August,['August'],1
+314,Utah,Utah_Tooele,July,August,"July, August",12
+315,Utah,Utah_Wasatch,September,November,"September, October, November",28
+316,Virginia,"Virginia_Page,Rappahannock",March,April,"March, April",12
+317,Virginia,"Virginia_Page,Shenandoah",March,April,"March, April",12
+318,"Virginia, West Virginia","Virginia, West Virginia_Hardy(WV),Shenandoah(VA)",March,April,"March, April",12
+319,Washington,"Washington_Asotin,Garfield",July,August,"July, August",12
+320,Washington,Washington_Chelan,August,August,['August'],1
+321,Washington,Washington_Chelan,June,October,"June, July, August, September, October",38
+322,Washington,Washington_Ferry,July,August,"July, August",12
+323,Washington,Washington_Ferry,July,July,['July'],1
+324,Washington,Washington_Ferry,September,October,"September, October",18
+325,Washington,Washington_Ferry&Okanogan,July,August,"July, August",12
+326,Washington,Washington_Franklin,July,July,['July'],1
+327,Washington,Washington_Garfield,July,August,"July, August",12
+328,Washington,Washington_Klickitat,July,July,['July'],1
+329,Washington,Washington_McKenzie,July,July,['July'],1
+330,Washington,Washington_Okanogan,August,August,['August'],1
+331,Washington,Washington_Okanogan,July,October,"July, August, September, October",32
+332,Washington,Washington_Okanogan,October,October,['October'],1
+333,Washington,Washington_SkamaniaCounty,August,November,"August, September, October, November",36
+334,Washington,"Washington_Snohomish,Skagit",July,October,"July, August, September, October",32
+335,Washington,Washington_WallaWalla,July,August,"July, August",12
+336,Washington,Washington_WallaWalla,June,June,['June'],1
+337,Washington,Washington_Whatcom,August,October,"August, September, October",26
+338,Washington,Washington_Whitman,June,June,['June'],1
+339,Washington,Washington_Whitman,September,September,['September'],1
+340,Washington,Washington_Yakima,July,August,"July, August, July, August",26
+341,Washington,Washington_Yakima,June,July,"June, July",10
+342,Washington,Washington_Yakima,June,June,['June'],1
+343,Wyoming,Wyoming_Albany,September,September,['September'],1
+344,Wyoming,Wyoming_Campbell,August,September,"August, September, August, September",36
+345,Wyoming,Wyoming_Campbell,July,August,"July, August",12
+346,Wyoming,Wyoming_Campbell,September,September,['September'],1
+347,Wyoming,"Wyoming_Campbell,Weston",August,August,['August'],1
+348,Wyoming,Wyoming_Converse,August,September,"August, September",17
+349,Wyoming,Wyoming_Converse,July,July,['July'],1
+350,Wyoming,Wyoming_Converse,July,September,"July, August, September",23
+351,Wyoming,Wyoming_Converse,September,September,['September'],1
+352,Wyoming,Wyoming_Cook,June,June,['June'],1
+353,Wyoming,Wyoming_Crook,February,February,['February'],1
+354,Wyoming,Wyoming_Goshen,July,July,['July'],1
+355,Wyoming,Wyoming_Goshen,June,June,['June'],1
+356,Wyoming,Wyoming_HotSprings,September,September,['September'],1
+357,Wyoming,Wyoming_Johnson,August,September,"August, September",17
+358,Wyoming,Wyoming_Johnson,September,September,['September'],1
+359,Wyoming,Wyoming_Laramie,February,March,"February, March",15
+360,Wyoming,Wyoming_Laramie,March,July,"March, April, May, June, July",29
+361,Wyoming,Wyoming_Laramie,March,March,['March'],1
+362,Wyoming,Wyoming_Natrona,July,July,['July'],1
+363,Wyoming,Wyoming_Natrona,September,September,['September'],1
+364,Wyoming,Wyoming_Park,July,December,"July, August, September, October, November, December",52
+365,Wyoming,Wyoming_Platte,October,October,['October'],1
+366,Wyoming,"Wyoming_Platte,Goshen",July,August,"July, August",12
+367,Wyoming,Wyoming_Sheridan,September,November,"September, October, November",28
+368,Wyoming,"Wyoming_Sheridan,Campbell,Johnson",August,August,['August'],1
+369,Wyoming,Wyoming_Teton&Fremont,September,November,"September, October, November",28
+370,Wyoming,Wyoming_Weston,August,September,"August, September",17

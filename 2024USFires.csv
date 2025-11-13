@@ -1,0 +1,473 @@
+Name,State,County,Acres,Start Date,Containment Date
+National,Alaska,Yukon-Koyukuk,"15,381",June 30,October 3
+Sushana River,Alaska,Denali,"1,261",June 27,October 9
+Quinn Creek,Alaska,Bethel,"2,709",June 26,August 16
+East Toklat,Alaska,Denali,"29,612",June 26,October 9
+Gold King Creek,Alaska,Denali,"6,538",June 26,October 9
+Globe,Alaska,Fairbanks North Star,"20,162",June 25,October 15
+Grizzly,Alaska,Denali,"38,790",June 25,October 8
+Iver,Alaska,Fairbanks North Star,"24,142",June 24,October 8
+Slate,Alaska,Fairbanks North Star,"26,492",June 24,October 8
+Main,Alaska,Yukon-Koyukuk,"28,147",June 23,September 16
+Von Frank,Alaska,Yukon-Koyukuk,"1,682",June 22,August 16
+Deep,Alaska,Yukon-Koyukuk,"24,882",June 22,October 8
+Foraker,Alaska,Denali,"5,919",June 21,October 8
+Clear,Alaska,Fairbanks North Star,"23,410",June 21,September 26
+Naluk,Alaska,Northwest Arctic,"23,406",June 20,September 16
+Noodor,Alaska,Yokun-Koyukuk,"13,798",June 20,October 2
+Van Hatten,Alaska,Yukon-Koyukuk,"22,944",June 19,October 2
+Midnight,Alaska,Yukon-Koyukuk,"50,550",June 19,September 26
+Eightmile Creek,Alaska,Bethel,"4,379",June 18,August 16
+South Fork George River,Alaska,Bethel,"7,991",June 18,August 16
+Big Yetna River,Alaska,Yukon-Koyukuk,"4,273",June 18,August 16
+Muskeg Creek,Alaska,Bethel,"1,000",June 17,August 19
+Aniak River,Alaska,Bethel,"2,361",June 17,August 16
+Owhat River,Alaska,Bethel,"1,390",June 17,August 16
+Oskawalik River,Alaska,Bethel,"1,894",June 17,August 16
+Lower Meadow Creek,Alaska,Yukon-Koyukuk,"6,577",June 17,August 16
+American Creek,Alaska,Lake and Peninsula,"4,934",June 16,July 26
+McDonald,Alaska,Fairbanks North Star,"153,729",June 8,September 26
+Owl,Alaska,Yukon-Koyukuk,"15,963",June 8,September 26
+Wood,Arizona,Pinal,"7,211",September 1,September 13
+Refuge,Arizona,"Yuma, La Paz","1,042",May 25,July 10
+Rocky,Arizona,Graham,"1,598",May 23,May 29
+Wildcat,Arizona,Maricopa,"14,402",May 18,July 29
+Toyo,Arizona,"Graham, Gila","1,779",May 10,May 24
+Flying Bucket,Arizona,Maricopa,"2,795",May 6,unknown
+Aubrey,Arizona,"Coconino, Yavapai","3,426",March 5,March 8
+Lockett,Arizona,Coconino,"2,782",June 29,August 22
+SCD - Boulder View,Arizona,Maricopa,"3,711",June 27,July 16
+Sayer,Arizona,Coconino,"1,049",June 16,July 18
+Foote,Arizona,Greenlee,"4,568",June 14,September 3
+Top,Arizona,Gila,"3,292",June 9,June 18
+Adams,Arizona,Maricopa,"5,029",June 2,July 13
+Spring,Arizona,Maricopa,"4,041",June 1,June 18
+Brushy,Arizona,Graham,"8,284",July 27,August 24
+Summit,Arizona,Graham,"5,905",July 26,August 24
+Sand Stone,Arizona,Maricopa,"27,390",July 25,August 22
+Adessa,Arizona,Pinal,"1,424",July 24,August 11
+Allen Trap,Arizona,Gila,"1,649",July 20,August 24
+Apex,Arizona,Coconino,"2,989",July 14,August 5
+Quail Springs,Arizona,Mohave,"1,508",July 13,August 4
+Brown,Arizona,Pima,"1,423",July 11,August 20
+Black,Arizona,"Maricopa, Gila","11,153",July 11,September 4
+Watch,Arizona,"Graham, Gila","2,162",July 11,August 24
+Buckhorn,Arizona,"Graham, Apache","1,006",July 10,August 10
+Pius,Arizona,Coconino,"1,999",July 8,August 25
+Weimer,Arizona,Coconino,"1,083",July 2,July 12
+Long Gulch,Arizona,Yavapai,"1,227",August 31,September 23
+Preacher,Arizona,Gila,"3,167",August 29,September 23
+Element,Arizona,Mohave,"5,364",August 6,August 19
+Bartlett,Arizona,Maricopa,"6,161",August 4,August 29
+Clair,Arizona,Maricopa,"2,170",August 4,August 29
+Sheep,Arizona,Gila,"2,483",August 4,September 3
+Skeleton,Arizona,Yavapai,"24,034",August 3,August 24
+Wolf,Arizona,Coconino,"9,872",April 29,July 26
+Horton,Arizona,"Gila, Coconino","8,346",December 15,"February 4, 2025"
+Vein,Arizona,"Pima, Santa Cruz","1,291",October 12,October 14
+Flood,Arizona,Pinal,"4,400",October 9,October 16
+Brigade,Arizona,Coconino,"1,812",September 21,October 9
+Siphon,Arizona,Pinal,"15,527",September 10,September 27
+Point,Arizona,Maricopa,"5,154",September 10,September 29
+West,Arizona,Gila,"15,074",September 1,unknown
+Black Mesa 2,Arizona,Yavapai,"2,605",August 31,September 8
+Waterman,Arizona,Yavapai,"3,059",July 25,July 31
+Rabbit,Arizona,Coconino,"3,016",July 17,July 26
+Freeman,Arizona,Pinal,"32,568",July 11,July 18
+Rock,Arizona,Gila,"4,306",April 11,
+Post,California,"Los Angeles, Ventura","15,563",June 15,June 26
+Lost,California,Kern,"3,600",June 6,June 11
+Corral,California,San Joaquin,"14,168",June 1,June 6
+Park,California,ButteTehama,"429,603",July 24,September 26
+Franklin,California,Los Angeles,"4,037",December 9,December 18
+Mountain,California,Ventura,"19,904",November 6,November 27
+Horseshoe,California,Inyo,"4,537",October 30,December 12
+Gabilan,California,Monterey,"1,200",October 22,October 23
+Shoe,California,Shasta,"5,124",October 9,November 8
+Airport,California,"Orange, Riverside","23,526",September 9,October 5
+Bridge,California,"Los Angeles, San Bernardino","56,030",September 8,November 26
+Roblar,California,San Diego,"1,000",September 7,September 11
+Line,California,San Bernardino,"43,978",September 5,December 23
+Chimineas,California,San Luis Obispo,"1,200",September 4,September 10
+Boone,California,"Fresno, Monterey","17,600",September 3,September 13
+Bear,California,Sierra,"3,323",September 2,September 19
+Boise,California,"Humboldt, Siskiyou","12,967",August 9,September 20
+Crozier,California,El Dorado,"1,938",August 6,August 20
+Coffee Pot,California,Tulare,"14,104",August 3,December 16
+Pedro,California,"Mariposa, Tuolumne","3,815",July 30,August 8
+Nixon,California,"Riverside, San Diego","5,222",July 29,August 7
+Borel,California,Kern,"59,288",July 24,September 15
+San Clemente Island,California,Los Angeles,"13,000",July 24,July 30
+Metz,California,Monterey,"1,100",July 23,July 25
+Apache,California,Ventura,"1,538",July 23,August 3
+Gold Complex,California,Plumas,"3,007",July 22,August 4
+Eagle,California,Riverside,"1,710",July 21,July 23
+Ridge,California,"Lake, Colusa","2,756",July 20,July 29
+Happy,California,Fresno,"12,543",July 16,November 15
+Hill,California,Humboldt,"7,224",July 15,August 14
+Lost Hills,California,Kern,"4,032",July 14,July 15
+Hurricane,California,"San Luis Obispo, Kern","12,703",July 13,July 17
+White,California,Kern,"5,562",July 13,July 26
+SQF Lightning Complex,California,Tulare,"33,026",July 13,September 17
+Rancho,California,Kern,"9,637",July 13,July 26
+Rim,California,Lassen,"1,025",July 13,July 23
+North,California,Modoc,"4,685",July 7,July 14
+Vista,California,San Bernardino,"2,936",July 7,August 17
+Lake,California,Santa Barbara,"38,664",July 5,August 4
+Shelly,California,Siskiyou,"15,520",July 3,August 6
+Olive,California,Kern,"1,357",July 3,July 5
+Thompson,California,Butte,"3,789",July 2,July 8
+Airline,California,San Benito,"1,295",July 2,July 5
+Mccain,California,San Diego,"1,595",July 1,July 10
+Basin,California,Fresno,"14,023",June 26,July 20
+Fresno June Lightning Complex,California,Fresno,"10,616",June 24,July 6
+Sites,California,Colusa,"19,195",June 17,June 25
+Aero,California,Calaveras,"5,285",June 17,June 27
+Point,California,Sonoma,"1,207",June 16,June 24
+Junes,California,Butte,"1,056",June 15,June 18
+Hesperia,California,San Bernardino,"1,078",June 15,June 24
+Bear,California,San Luis Obispo,"1,410",June 12,June 14
+Road,California,Kern,"1,076",June 4,June 6
+West,California,Kern,"1,576",June 2,June 6
+Firebaugh,California,Madera,"1,300",May 30,May 30
+Hill,California,Santa Barbara,"1,383",May 28,June 1
+Roberts,California,Monterey,"7,030",May 17,May 25
+School,California,Kern,"1,479",May 2,May 3
+Spruce Creek,Colorado,Montezuma,"5,692",May 14,May 31
+Boggsville,Colorado,Bent,"1,062",March 2,March 18
+Oak Ridge,Colorado,"Custer, Pueblo","1,310",June 22,unknown
+Stone Canyon,Colorado,"Boulder, Larimer",157,July 30,August 8
+Alexander Mountain,Colorado,Larimer,"9,624",July 29,August 17
+104,Colorado,Weld,"1,782",July 28,July 31
+Quail Hollow,Colorado,Arapahoe,"1,155",July 13,July 14
+Range 135,Colorado,El Paso,"7,744",February 29,March 5
+Range 153,Colorado,El Paso,"1,816",February 25,March 5
+Big Gulch,Colorado,Moffat,"1,164",August 7,August 9
+Bucktail,Colorado,Montrose,"7,192",August 1,August 21
+Range 127,Colorado,El Paso,"1,132",April 15,May 13
+Wildhorse 5,Colorado,Weld,"1,204",September 29,October 2
+Rabbit Valley,Colorado,Mesa,"1,505",May 17,June 20
+Spruce Creek,Colorado,Montezuma,"5,699",May 14,May 31
+Rabbit Valley,"Colorado, Utah","Mesa (CO), Grand (UT)","1,282",June 17,July 3
+Indian River Trail,Florida,Brevard,"2,006",May 25,June 16
+Brushy Crossing,Florida,Liberty,"2,214",March 2,April 1
+RADAR,Florida,Polk,"1,300",February 20,March 1
+Hinson,Florida,Lake,"2,352",April 5,August 12
+Kekaha,Hawaii,Kaua'i,"1,307",July 20,Unknown
+Walcott,Idaho,Cassia,"2,149",July 6,July 18
+Oreana,Idaho,Owyhee,"1,219",August 6,August 9
+Gardner,Idaho,Blaine,"1,162",August 3,August 17
+Valley,Idaho,Ada,"9,904",October 4,October 23
+Martin,Idaho,Blaine,"1,100",October 4,October 5
+Rosie,Idaho,Owyhee,"5,628",September 30,October 17
+Nugget,Idaho,Idaho,"1,001",September 13,October 30
+Garden,Idaho,Lemhi,"13,036",September 11,October 26
+Logan,Idaho,Valley,"15,672",September 9,November 12
+Table,Idaho,Owyhee,"17,497",September 8,September 10
+Frog,Idaho,Custer,"3,020",September 7,October 9
+South Selway Complex,Idaho,Idaho,"1,928",September 6,October 24
+Commissary,Idaho,Bonneville,"6,885",September 4,November 7
+Lava,Idaho,Gem,"97,585",September 2,October 25
+Syrup,Idaho,Elmore,"5,129",September 2,September 3
+Mineral,Idaho,Washington,"15,392",September 2,September 8
+Chimney,Idaho,"Elmore, Camas","6,522",September 2,October 29
+Bigflat,Idaho,Washington,"3,662",September 2,September 4
+Glendale,Idaho,Blaine,"7,546",September 2,September 5
+Copper,Idaho,Valley,"2,129",September 2,October 24
+Red Rock,Idaho,Lemhi,"79,260",September 2,October 29
+Berry,Idaho,"Elmore, Gooding","14,412",September 2,September 6
+Halfway,Idaho,Idaho,"1,502",August 25,{November 4
+Reynolds,Idaho,Lemhi,"2,671",August 22,October 31
+Magruder Ridge,Idaho,Idaho,"3,778",August 22,October 31
+Burnt Creek,Idaho,Valley,"2,665",August 19,October 11
+Birch,Idaho,Valley,"23,094",August 17,October 29
+Magic Water,Idaho,Twin Falls,"2,368",August 17,August 18
+Square Lake,Idaho,Idaho,"5,240",August 17,October 24
+Prospect,Idaho,Idaho,"2,937",August 12,October 31
+Parks,Idaho,Idaho,"5,997",August 11,October 31
+Elkhorn Ridge,Idaho,Idaho,"3,140",August 7,October 31
+Jump,Idaho,Owyhee,"25,741",August 5,August 7
+Bulldog,Idaho,Boise & Valley,"11,423",August 5,October 28
+Dollar,Idaho,Valley,"4,360",August 5,October 17
+Flat,Idaho,Boise,"3,734",August 5,September 2
+Goat,Idaho,Valley,"36,718",August 5,October 28
+Nellie,Idaho,Boise & Valley,"50,073",August 5,October 28
+Paddock,Idaho,"Gem, Payette, & Washington","187,185",August 5,August 18
+Snag,Idaho,Valley,"33,437",August 5,October 28
+Farrow,Idaho,Idaho,"3,637",August 5,October 24
+Basin,Idaho,Elmore,"6,094",August 5,August 7
+Anchor,Idaho,Idaho,"1,890",July 28,October 23
+Wye,Idaho,Idaho,"13,137",July 25,November 4
+Cliff Mountain,Idaho,Adams & Idaho,"1,108",July 25,August 20
+Ace Butte,Idaho,Idaho,"1,962",July 25,October 23
+Gwen,Idaho,Latah,"28,820",July 24,August 8
+Limepoint,Idaho,Adams & Latah,"33,084",July 24,September 22
+Thunder,Idaho,Lemhi,"2,474",July 24,August 8
+Sugar,Idaho,Owyhee,"13,727",July 24,July 26
+Twentymile,Idaho,Elmore,"4,142",July 24,July 25
+Wapiti,Idaho,Boise & Custer,"129,063",July 24,October 31
+Dove,Idaho,"Elmore, Owyhee","3,260",July 24,July 28
+Wolf Creek,Idaho,Adams & Valley,"1,154",July 24,September 4
+Texas,Idaho,Latah,"1,565",July 15,August
+Mary,Idaho,Owyhee,"6,231",July 13,July 15
+OTR 136,Idaho,Ada,"1,106",July 12,July 12
+Bench Lake,Idaho,Custer,"2,595",July 11,August 22
+MM97 I-84,Idaho,Elmore,"6,336",July 8,July 12
+Swany,Idaho,Ada,"1,154",July 6,July 9
+Billy Creek,Idaho,Nez Perce,"3,185",July 3,August 7
+Coonskin,Idaho,"Twin Falls, Owyhee","13,074",June 26,July 22
+Soldier,Idaho,Owyhee,"5,313",June 26,June 30
+OTR 47,Idaho,Ada,"2,127",June 15,June 15
+OTR 31,Idaho,Ada,"2,595",June 11,June 11
+Codell Rd,Kansas,Ellis,"1,568",April 11,April 22
+Central Canal North,Louisiana,Cameron,"2,834",August 4,August 7
+Butternut,Massachusetts,Berkshire,"1,676",November 18,December 2
+Snake Trail,Minnesota,Waseca,"1,604",March 3,March 29
+Doran WMA,Minnesota,Otter Tail,"2,147",March 3,March 22
+Jeff Davis Palestine Rd,Mississippi,Jefferson Davis,"1,409",February 24,February 28
+Leaf,Mississippi,Greene,"1,730",February 24,April 23
+Parces Rd,Mississippi,Forrest,"1,730",April 18,June 24
+Otter Road,Montana,"Rosebud, Big Horn","2,281",March 10,June 6
+Grouse,Montana,Beaverhead,"6,228",July 25,October 28
+Johnson,Montana,Ravalli,"8,438",July 25,November 5
+Miller Peak,Montana,Missoula,"2,724",July 14,August 20
+Four Mile,Montana,Big Horn,"2,083",July 13,July 23
+McGhee,Montana,Rosebud,"19,223",July 12,July 24
+Prairie,Montana,Rosebud,"6,540",July 12,July 23
+Deadman,Montana,"Rosebud, Big Horn","19,983",July 12,July 23
+Anderson,Montana,Big Horn,"2,783",July 12,September 4
+Horse Gulch,Montana,"Lewis and Clark, Broadwater","15,167",July 9,August 30
+Big Hollow,Montana,Beaverhead,"3,435",August 23,September 5
+Sharrott Creek,Montana,Ravalli,"3,204",August 23,2024
+Chalky Point,Montana,"Rosebud, Big Horn","1,304",August 22,August 25
+Barber Draw,Montana,Big Horn,"6,739",August 21,August 27
+Ratio Mountain,Montana,Jefferson,"1,966",August 18,October 31
+Daly,Montana,"Ravalli, Granite","11,386",August 18,November 6
+Hopkin,Montana,Carter,"1,130",August 4,August 5
+Meridian,Montana,Madison,"3,900",October 8,2024
+Homestead,Montana,Sheridan,"1,000",September 14,September 25
+Shirley,Montana,Powder River,"1,230",August 5,August 9
+Stewart,Montana,Powder River,"1,150",August 5,August 7
+Railroad,Montana,Ravalli,"1,583",July 25,November 6
+Badger,"Montana, Wyoming","Big Horn (MT), Sheridan (WY)","7,973",July 24,August 29
+Line Creek,"Montana, Wyoming","Powder River (MT), Campbell (WY)","2,496",July 12,August 14
+Remington,"Montana, Wyoming","Rosebud (MT), Big Horn (MT), Sheridan (WY), Campbell (WY)","196,368",August 22,September 21
+Bronco,Nebraska,Sioux,"1,069",September 18,November 12
+Betty's Way,Nebraska,"Lincoln, Custer","67,642",February 26,March 11
+Davis,Nevada,Washoe,"5,824",September 7,September 25
+Castle Ridge,Nevada,Elko,"25,885",October 6,October 19
+Pizona,Nevada,Mineral,"2,160",June 26,July 5
+Yellow Peak,Nevada,Washoe,"1,262",June 26,July 2
+Broom Canyon,Nevada,"Nye, White Pine","8,217",July 29,2024
+Stockade Canyon,Nevada,Washoe,"18,168",July 24,August 13
+Whisky Canyon,Nevada,Lander,"1,246",July 22,July 25
+Wilder,Nevada,Humboldt,"17,275",July 7,July 14
+North Creek,Nevada,White Pine,"1,100",July 7,July 14
+Range 77,Nevada,Nye,"7,876",August 22,August 25
+Hobson,Nevada,White Pine,"1,080",August 18,August 23
+Raglan,Nevada,Humboldt,"1,787",August 20,September 2
+Whip-poor-will,New Jersey,Burlington,"1,167",July 16,2024
+Tea Time Hill,New Jersey,Burlington,"4,300",July 5,2024
+Indios,New Mexico,Rio Arriba,"11,477",May 19,unknown
+Blue 2,New Mexico,Lincoln,"7,532",May 16,July 15
+Salt,New Mexico,"Otero, Lincoln","7,939",June 17,unknown
+South Fork Fire,New Mexico,"Otero, Lincoln","17,569",June 17,unknown
+Encerrita,New Mexico,Cibola,"2,499",June 15,August 28
+Antone,New Mexico,Catron,"12,397",June 7,July 30
+Tanques,New Mexico,Rio Arriba,"6,500",July 18,August 21
+Paramount,New Mexico,Sierra,"1,328",July 11,August 19
+Ridge,New Mexico,Catron,"4,257",July 2,September 19
+Fisher,New Mexico,Socorro,"8,044",July 1,July 21
+Island Fire,New Mexico,Union,"1,600",August 22,August 28
+Jennings Creek,"New York, New Jersey","Orange (NY), Passaic (NJ)","5,304",November 8,November 23
+Elkhorn,North Dakota,McKenzie,"28,434",October 5,October 9
+Williams Co,North Dakota,Williams,"36,814",October 5,October 9
+Bear Den,North Dakota,McKenzie,"15,661",October 5,November 20
+Twisted Arrow,North Dakota,"Benson, Eddy","1,365",April 6,unknown
+Pear Tree,Oklahoma,Osage,"1,080",March 28,April 9
+Flying G,Oklahoma,Tulsa,"1,110",March 17,April 1
+Oak,Oklahoma,Osage,"1,033",March 17,April 1
+Zink,Oklahoma,Osage,"8,410",March 14,April 10
+Catesby,Oklahoma,Ellis,"89,688",February 27,March 17
+Slapout,Oklahoma,Beaver,"26,020",February 27,March 8
+Sand Creek,Oklahoma,Harper,"2,645",February 26,February 29
+Walker,Oklahoma,LeFlore,"1,974",February 25,March 18
+Nature,Oklahoma,Cherokee,"3,542",February 25,unknown
+Stabler,Oklahoma,Osage,"1,911",April 5,April 20
+Euchee Creek,Oklahoma,Payne,"1,279",October 29,November 4
+Cimarron Bend,Oklahoma,Logan,"2,112",October 29,November 1
+Unknown,Oklahoma,Lincoln,"1,130",October 29,October 30
+North Road,Oklahoma,Osage,"3,584",October 29,November 5
+Indian Creek,Oklahoma,Dewey,"1,575",October 29,November 1
+Rush,Oklahoma,Comanche,"12,488",October 24,November 8
+Blue Star,Oklahoma,McIntosh,"1,318",October 9,October 12
+Durkee,Oregon,Baker,"268,492",July 17,August 7
+Pine,Oregon,Deschutes,"6,634",October 7,October 24
+Little Lava,Oregon,Deschutes,"15,514",September 8,November 15
+Buck Creek,Oregon,Lake,"5,758",September 7,October 8
+Linton Creek,Oregon,Lane,"1,310",September 7,November 3
+Bowman Well,Oregon,Lake,"2,853",September 6,October 14
+Firestone,Oregon,"Lake, Deschutes","9,462",September 6,October 5
+Service,Oregon,Wheeler,"23,890",September 6,September 25
+Flat Top,Oregon,Lake,"36,362",September 6,October 5
+Young Grasshopper,Oregon,Lane,"5,313",September 6,November 9
+Devils Knob,Oregon,Douglas,"4,149",September 5,October 17
+Wiley Flat,Oregon,Crook,"30,185",September 2,October 11
+Shoe Fly,Oregon,Wheeler,"26,817",September 2,September 15
+Oak Canyon,Oregon,"Wasco, Sherman","15,170",September 2,September 6
+Jones,Oregon,Malheur,"7,162",September 2,September 11
+Rail Ridge,Oregon,"Crook, Grant","176,661",September 2,November 1
+Solomon,Oregon,Harney,"2,600",September 2,September 8
+Sagehen,Oregon,Harney,"5,953",September 2,October
+Copperfield,Oregon,Klamath,"3,822",September 1,September 16
+Conroy Road,Oregon,Wasco,"1,500",September 1,September 2
+0672 RV,Oregon,Gilliam,"5,490",August 17,August 21
+Dixon,Oregon,Douglas,"1,965",August 10,August 21
+Town Gulch,Oregon,Baker,"18,234",August 5,August 19
+Porcupine,Oregon,Harney,"6,495",August 5,August 19
+Soldier Creek,Oregon,Malheur,"11,061",August 5,August 14
+Warner Peak,Oregon,Lake,"65,866",August 5,August 24
+Elk Lane,Oregon,Jefferson,"5,176",August 4,August 14
+Poison Creek,Oregon,Grant,"1,060",July 25,August 7
+Sand,Oregon,Grant,"7,582",July 25,August 15
+Powerline Road,Oregon,Umatilla,"1,500",July 25,August 1
+Hole In The Ground,Oregon,Malheur,"98,977",July 24,August 2
+Whiskey Mountain,Oregon,Harney,"4,357",July 24,August 8
+Cedar Creek,Oregon,Malheur,"1,546",July 24,July 30
+Grasshopper,Oregon,Malheur,"2,665",July 24,August 2
+Gilespie Spring,Oregon,Malheur,"2,556",July 24,July 25
+Camp Creek,Oregon,Crook,"1,581",July 23,July
+Badlands Complex,Oregon,Baker,"54,563",July 22,August 12
+Crazy Creek,Oregon,"Crook, Wheeler","86,968",July 22,September 25
+Telephone,Oregon,Harney,"54,034",July 22,August 21
+Durgan,Oregon,Crook,"3,245",July 22,July 25
+Microwave Tower,Oregon,"Hood River, Wasco","1,312",July 22,August 12
+Courtrock,Oregon,Grant,"20,019",July 21,August 17
+Whisky Creek,Oregon,Hood River,"3,240",July 20,October 31
+Fuller Lake,Oregon,Douglas,"6,378",July 20,November 5
+Horse Heaven Creek,Oregon,Lane,"3,198",July 18,November 6
+No Man,Oregon,Lane,"2,148",July 18,November
+Red,Oregon,Klamath,"3,060",July 17,November 12
+Battle Mountain Complex,Oregon,"Umatilla, Grant, Morrow","183,026",July 17,August 20
+Chalk,Oregon,Lane,"5,991",July 17,September 14
+Coffeepot,Oregon,Lane,"6,176",July 17,August 23
+Coombes Canyon,Oregon,Umatilla,"3,224",July 17,July 22
+Lane 1,Oregon,"Douglas, Lane","25,951",July 17,November 10
+Middle Fork,Oregon,"Douglas, Klamath","5,286",July 17,October 31
+Pilot Rock,Oregon,Umatilla,"11,349",July 17,July 26
+Moss Mountain,Oregon,Lane,"2,849",July 17,October 25
+208,Oregon,Lane,"11,263",July 17,October 25
+Pyramid,Oregon,Linn,"1,312",July 17,September 24
+Twin Springs,Oregon,Malheur,"2,815",July 17,July 18
+Diamond Complex,Oregon,Douglas,"11,141",July 16,2024
+Ore,Oregon,"Lane, Linn","3,479",July 16,September 26
+Lone Rock,Oregon,"Gilliam, Morrow, Wheeler","137,222",July 13,September 11
+Cow Valley,Oregon,Malheur,"133,490",July 11,October 1
+Bonita Road,Oregon,Malheur,"2,727",July 11,July 25
+Huntington Mutual Aid,Oregon,Baker,"4,511",July 10,July 16
+River,Oregon,Malheur,"2,799",July 10,July 13
+Falls,Oregon,Harney,"151,680",July 10,August 22
+Larch Creek,Oregon,Wasco,"18,286",July 9,July 26
+Upper Pine,Oregon,Harney,"1,086",July 8,July 19
+Salt Creek,Oregon,Jackson,"4,102",July 7,July 24
+Little Valley,Oregon,Malheur,"17,901",June 26,July 1
+Dry Lake,Oregon,Malheur,"2,670",June 26,October 9
+Darlene 3,Oregon,Deschutes,"3,903",June 25,July 1
+Long Bend,Oregon,Wasco,"1,024",June 22,July 26
+Upper Applegate,Oregon,Jackson,"1,143",June 20,June 30
+Bowden,Oregon,Malheur,"5,720",June 6,August 18
+Little Yamsay,Oregon,Klamath,"6,340",April 20,May 13
+Power Dam Road,South Dakota,Mellette,"15,320",September 12,October 11
+Manderson,South Dakota,Oglala Lakota,"2,075",September 12,October 16
+Travin,South Dakota,Harding,"8,054",July 29,September 5
+Limpert 1,South Dakota,Harding,"1,498",July 29,July 30
+Sage Creek,South Dakota,Pennington,"1,959",August 21,September 13
+Hackberry Canyon,Texas,Potter,"1,088",May 14,May 25
+Laguna 24,Texas,Kleberg,"12,385",May 11,May 28
+Roughneck,Texas,Hutchinson,355,March 3,March 16
+Bluestem 24,Texas,Brazoria,"2,420",June 30,July 7
+West AER Motor,Texas,Cottle,"1,761",July 31,August 2
+Magenta,Texas,Oldham,"3,297",February 27,March 5
+Windy Deuce,Texas,"Potter, Moore, Hutchinson, Carson","143,302",February 26,March 14
+Grape Vine Creek,Texas,Gray,"34,883",February 26,March 10
+Huliet Pass,Texas,Armstrong,"2,963",February 26,February 27
+North CIG,Texas,Moore,"4,012",February 24,February 25
+North Art,Texas,Mason,"4,355",August 22,August 25
+Peter Switch,Texas,Wichita,"1,658",August 18,August 19
+Red Creek,Texas,Haskell,"2,778",August 16,August 17
+Dirt Road,Texas,"Dickens, King","1,524",August 16,August 20
+Midway Pasture,Texas,Wilbarger,"1,147",August 15,August 16
+Creek 232,Texas,Throckmorton,"1,241",August 13,August 14
+Robertson,Texas,Stephens,"1,610",August 12,August 14
+Paint Crossing,Texas,Throckmorton,"2,363",August 7,August 12
+Mile Marker 32,Texas,Kenedy,"1,424",April 19,April 24
+Smokehouse Creek,"Texas, Oklahoma","Hutchinson (TX), Carson (TX), Gray (TX), Roberts (TX), Wheeler (TX), Hemphill (TX), Lipscomb (TX), Ellis (OK), Roger Mills (OK)","1,058,482",February 26,March 16
+Yellow Lake,Utah,Wasatch,"33,041",September 28,November 5
+Prairie,Utah,Grand,"1,921",September 16,September 18
+Dry Fork,Utah,Rich,"1,340",August 6,August 12
+Hag,Utah,Box Elder,"3,610",July 31,August 1
+Deer Springs,Utah,Kane,"11,765.77",July 7,July 30
+Boulter,Utah,Tooele,"2,243",July 7,August 30
+Silver King,Utah,Piute,"18,222",July 5,August 1
+Little Twist,Utah,Beaver,"5,367",May 13,August 22
+Capon,Virginia,Rockingham,"2,368",March 20,unknown
+Rocky Branch,Virginia,"Page, Rappahannock","1,014",March 20,April 8
+Waterfall Mountain,Virginia,"Page, Shenandoah","6,399",March 20,April 29
+Big Levels,Virginia,Augusta,"1,284",December 2,January 5 (2025)
+Waites Run,"Virginia, West Virginia","Hardy (WV), Shenandoah (VA)","6,223",March 20,April 29
+Thorp Road,Washington,McKenzie,"2,112",July 4,July 8
+Jack Wells,Washington,Okanogan,"8,373",October 1,October 21
+Long Hollow,Washington,Whitman,"4,000",September 26,September 27
+Goosmus,Washington,Ferry,"1,738",September 25,October 4
+Stayman,Washington,Chelan,"3,118",August 20,August 24
+Ruby,Washington,Whatcom,"1,336",August 9,October 31
+Williams Mine,Washington,Skamania County,"13,092",August 5,November 1
+Calcite Creek,Washington,Okanogan,"4,500",August 5,August 25
+Lower Granite,Washington,Garfield,"14,482",July 29,August 2
+Retreat,Washington,Yakima,"45,601",July 23,August 23
+Black Canyon,Washington,Yakima,"9,211",July 22,August 1
+Bighorn,Washington,Klickitat,"51,569",July 22,July 30
+Davin Road,Washington,Franklin,"1,948",July 21,July
+Miners Complex,Washington,"Snohomish, Skagit","1,098",July 19,October 31
+Bridge Creek,Washington,Ferry,"3,998",July 19,August 4
+Swawilla,Washington,Ferry & Okanogan,"53,462",July 17,August 15
+Easy,Washington,Okanogan,"2,130",July 17,October 1
+Cougar Creek,Washington,"Asotin, Garfield","24,095",July 15,August 29
+Road 11,Washington,Ferry,"1,422",July 4,July
+Joe Barker Road,Washington,Walla Walla,"1,436",July 3,August 14
+Slide Ranch/Mission Road,Washington,Yakima,"3,106",June 22,July 9
+Beam Road,Washington,Yakima,"8,542",June 15,June 18
+Neff Road,Washington,Walla Walla,"1,435",June 15,June
+Nisqually John,Washington,Whitman,"1,221",June 14,June
+Pioneer,Washington,Chelan,"38,735",June 8,October 3
+Silver Spoon,Wyoming,Campbell,"1,721",September 1,September 8
+139,Wyoming,Laramie,"2,017",March 2,March 26
+Happy Jack,Wyoming,Laramie,"6,524",March 1,July 3
+Pine Ridge,Wyoming,Goshen,"1,290",June 24,June 26
+Creek,Wyoming,Cook,"1,471",June 11,June 28
+Pleasant Valley,Wyoming,"Platte, Goshen","28,984",July 30,August 5
+Cold Springs,Wyoming,Converse,"1,846",July 30,September 24
+Blizzard Heights,Wyoming,Converse,"1,957",July 28,July 29
+Beaver Creek,Wyoming,Campbell,"1,081",July 28,August 31
+Clearwater,Wyoming,Park,"1,966",July 19,December
+Road 22,Wyoming,Goshen,"5,577",July 13,July 14
+Oregon Trail,Wyoming,Natrona,"1,540",July 13,July 22
+Highway 16,Wyoming,Crook,"1,246",February 26,February 27
+Wildcat Creek,Wyoming,Crook,"1,200",February 25,unknown
+353 I-80/Otto Road,Wyoming,Laramie,"2,193",February 24,March 25
+Barber,Wyoming,Converse,"1,419",August 21,September 24
+Flat Rock,Wyoming,Campbell,"52,421",August 21,September 25
+Constitution,Wyoming,Campbell,"24,630",August 21,September 14
+House Draw,Wyoming,Johnson,"174,547",August 21,September 17
+Deer Creek,Wyoming,"Sheridan, Campbell, Johnson","6,700",August 3,August 25
+Wildcat Creek,Wyoming,"Campbell, Weston","18,810",August 2,August 15
+Diamond,Wyoming,Platte,"2,168",October 22,October 23
+Elk,Wyoming,Sheridan,"98,352",September 27,November 14
+Pack Trail,Wyoming,Teton & Fremont,"89,930",September 27,November 7
+Livingston Draw,Wyoming,Johnson,"1,400",September 17,September 23
+Bear Creek,Wyoming,Albany,"1,444",September 12,September 20
+La Bonte,Wyoming,Converse,"3,506",September 12,September 25
+Short Draw,Wyoming,Campbell,"34,557",September 11,September 20
+Salt Creek,Wyoming,Natrona,"1,520",September 11,September 11
+West Warm Springs,Wyoming,Hot Springs,"1,610",September 9,September 13
+Geier,Wyoming,Weston,"1,474",August 21,September 24
